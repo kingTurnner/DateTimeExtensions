@@ -1,5 +1,5 @@
 # DateTimeExtensions
-
+Install-Package DateTimeExtensions
 ![DateTimeExtensions Logo](https://github.com/joaomatossilva/DateTimeExtensions/raw/master/assets/datetimeextensions-200-logo.png)
 
 [![NuGet Version](http://img.shields.io/nuget/v/DateTimeExtensions.svg?style=flat)](https://www.nuget.org/packages/DateTimeExtensions/) 
